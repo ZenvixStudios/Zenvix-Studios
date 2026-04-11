@@ -58,13 +58,13 @@ export default function Contact() {
                 </div>
               </a>
 
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-6 group">
+              <a href="https://instagram.com/zenvix._studios" target="_blank" rel="noopener noreferrer" className="flex items-center gap-6 group">
                 <div className="w-14 h-14 rounded-2xl bg-dark flex items-center justify-center border border-white/5 group-hover:border-accent/50 transition-all">
                   <Instagram className="text-accent" />
                 </div>
                 <div>
                   <p className="text-white/40 text-sm uppercase tracking-widest mb-1">Instagram</p>
-                  <p className="text-xl font-bold">@rishikesh_designs</p>
+                  <p className="text-xl font-bold">@zenvix._studios</p>
                 </div>
               </a>
 
